@@ -9,7 +9,8 @@
 - Writing your first program.
 
 ## My Experience
-- I was familiar with most of the concepts and helped me to revise them. 
+- I was familiar with most of the concepts and helped me to revise them.
+- It took me many hours to edit the recorded videos.
 
 ## What I did
 - Explained the PDF.
