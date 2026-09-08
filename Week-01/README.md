@@ -20,3 +20,5 @@
 ## Mini Project
 - simple program using print() funtion.
 
+### [Tap to watch the video on YouTube](https://youtu.be/ZZiwicYS-7M?si=vkhSNmvXyi5MlWGj)
+
