@@ -1,0 +1,12 @@
+name = input("What's your name: ")
+age = input("How old are you: ")
+schoolName = input("What is the name of your school: ")
+Grade = input("What grade are you: ")
+Height = input("What is your height: ")
+
+print("               Student Profile")
+print("Name:", name)
+print("Age:", age)
+print("School Name:", schoolName)
+print("Grade:", Grade)
+print("Height:", Height)
