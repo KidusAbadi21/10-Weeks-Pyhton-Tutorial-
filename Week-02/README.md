@@ -1,4 +1,4 @@
-# Week 1 — Variables, Data Types & User Input
+# Week 2 — Variables, Data Types & User Input
 
 ## Topics
 - Variables
