@@ -9,6 +9,7 @@ To help interested Ethiopians learn the basics of Python, while developing my te
 ## Weekly Progress
 
 - ✅ Week 01 - Introduction & Installation
+- ✅ Week 02 - Variables, Data Types & User Input
 
 ## What You'll Learn
 - Python basics
@@ -17,6 +18,7 @@ To help interested Ethiopians learn the basics of Python, while developing my te
 
 ## Links to The Videos
 - [Introduction & Installation - Part 01](https://youtu.be/ZZiwicYS-7M?si=vkhSNmvXyi5MlWGj)
+- [Variables, Data Types & User Input](https://youtu.be/kqxLFp42rRw?si=iXXNZkl31SPLXGET)
 
 ## About
 Created as part of my internship at FSE (Future Scholars Ethiopia), an organization that empowers Ethiopian students through scholarships, leadership, and academic excellence.
