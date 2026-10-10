@@ -11,7 +11,7 @@ To help interested Ethiopians learn the basics of Python, while developing my te
 - ✅ Week 01 - Introduction & Installation
 - ✅ Week 02 - Variables, Data Types & User Input
 - ✅ Week 03 - Operators
-- ✅ Week 03 - Comments & Conditionals (if, elif, & else)
+- ✅ Week 04 - Comments & Conditionals (if, elif, & else)
 
 ## What You'll Learn
 - Python basics
