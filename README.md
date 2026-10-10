@@ -11,6 +11,7 @@ To help interested Ethiopians learn the basics of Python, while developing my te
 - ✅ Week 01 - Introduction & Installation
 - ✅ Week 02 - Variables, Data Types & User Input
 - ✅ Week 03 - Operators
+- ✅ Week 03 - Comments & Conditionals (if, elif, & else)
 
 ## What You'll Learn
 - Python basics
@@ -21,6 +22,7 @@ To help interested Ethiopians learn the basics of Python, while developing my te
 - [Introduction & Installation - Part 01](https://youtu.be/ZZiwicYS-7M?si=vkhSNmvXyi5MlWGj)
 - [Variables, Data Types & User Input](https://youtu.be/kqxLFp42rRw?si=iXXNZkl31SPLXGET)
 - [Operators](https://youtu.be/i296XejzAZc?si=Yi9RkOnXoRn8DJBy)
+- [Comments & Conditionals (if, elif, & else)](https://youtu.be/eltI_40lmSQ?si=NcnBAm39NeCpGztY)
 
 ## About
 Created as part of my internship at FSE (Future Scholars Ethiopia), an organization that empowers Ethiopian students through scholarships, leadership, and academic excellence.
